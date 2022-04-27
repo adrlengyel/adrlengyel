@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Adrian
 - 👀 I’m interested in programming of any kind, but I currently work mostly with .NET
-- 🌱 I’m currently learning Android development in secondary school of engineering
+- 🌱 Nowadays I program in .NET Winforms, particularly with Excel library ClosedXML
 - 📫 How to reach me: 
 -   e-mail: lengyel.adr@gmail.com
 -   discord: adrlengyel#7061 
